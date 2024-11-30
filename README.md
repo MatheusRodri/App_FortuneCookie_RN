@@ -1,3 +1,7 @@
+# Sobre o projeto
+
+O projeto se trata de um aplicativo na qual
+
 # Como rodar o projeto ?
 
 - Baixe ou clone projeto em seu computador;
