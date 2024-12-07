@@ -1,8 +1,19 @@
-# Sobre o projeto
+# Biscoito da Sorte
 
-O projeto se trata de um aplicativo na qual
+Biscoito da Sorte é um aplicativo desenvolvido em React Native que traz a diversão e sabedoria dos tradicionais biscoitos da sorte direto para a palma da sua mão. Ao tocar no biscoito virtual, você receberá uma frase inspiradora ou divertida, tornando seu dia mais leve e motivador.
 
-# Como rodar o projeto ?
+## Funcionalidades
+
+Interação Simples: Toque no biscoito para receber uma nova frase.
+Frases Inspiradoras: Uma vasta coleção de frases para te inspirar.
+Interface Amigável: Design intuitivo e agradável para todos os usuários.
+Compatível com iOS e Android: Aproveite o aplicativo em qualquer dispositivo.
+
+## Tecnologias Utilizadas
+- React Native
+- JavaScript
+
+## Como rodar o projeto ?
 
 - Baixe ou clone projeto em seu computador;
 - Entre na pasta do projeto;
