@@ -4,10 +4,10 @@ Biscoito da Sorte é um aplicativo desenvolvido em React Native que traz a diver
 
 ## Funcionalidades
 
-Interação Simples: Toque no biscoito para receber uma nova frase.
-Frases Inspiradoras: Uma vasta coleção de frases para te inspirar.
-Interface Amigável: Design intuitivo e agradável para todos os usuários.
-Compatível com iOS e Android: Aproveite o aplicativo em qualquer dispositivo.
+- Interação Simples: Toque no biscoito para receber uma nova frase.
+- Frases Inspiradoras: Uma vasta coleção de frases para te inspirar.
+- Interface Amigável: Design intuitivo e agradável para todos os usuários.
+- Compatível com iOS e Android: Aproveite o aplicativo em qualquer dispositivo.
 
 ## Tecnologias Utilizadas
 - React Native
